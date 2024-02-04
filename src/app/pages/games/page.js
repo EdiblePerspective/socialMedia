@@ -1,6 +1,6 @@
 export const metadata = {
-    title: 'Y - Games',
-    description: 'Y Social Media Site',
+    title: 'Noot - Games',
+    description: 'Noot Social Media Site',
   }
 
 export default function Games() {

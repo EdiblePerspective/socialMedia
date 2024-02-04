@@ -1,6 +1,6 @@
 export const metadata = {
-    title: 'Y - People',
-    description: 'Y Social Media Site',
+    title: 'Noot - People',
+    description: 'Noot Social Media Site',
   }
 
 export default function People() {

@@ -1,6 +1,6 @@
 export const metadata = {
-    title: 'Y - Profile',
-    description: 'Y Social Media Site',
+    title: 'Noot - Profile',
+    description: 'Noot Social Media Site',
   }
 
 export default function Profile() {
